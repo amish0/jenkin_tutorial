@@ -1,1 +1,1 @@
-# jenkin_tutorial
+# Github package to connect jenkin with github
